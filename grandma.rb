@@ -1,6 +1,6 @@
 # Write a speak_to_grandma method.
 
-phrase = 
+phrase = gets.strip
 
 def speak_to_grandma (phrase)  do 
   
