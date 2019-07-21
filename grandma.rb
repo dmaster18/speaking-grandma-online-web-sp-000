@@ -5,7 +5,7 @@ phrase = gets.strip
 def speak_to_grandma (phrase)  do 
   if phrase != phrase.upcase
     puts "HUH?! SPEAK UP, SONNY!"
-  elsif phrase == 
+  elsif phrase == phrase.upcase
   else
   end
 end
