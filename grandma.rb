@@ -11,7 +11,7 @@ def speak_to_grandma (phrase = gets.strip)  do
   end
 end
 
-speak_to_grandma
+speak_to_grandma(phrase)
 
 # Whatever you say to grandma, she should respond with
 # HUH?! SPEAK UP, SONNY!
