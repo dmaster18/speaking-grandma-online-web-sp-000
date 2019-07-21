@@ -3,7 +3,7 @@
 phrase = gets.strip
 
 def speak_to_grandma (phrase)  do 
-  
+  if phrase == 
 end
 
 # Whatever you say to grandma, she should respond with
