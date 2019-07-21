@@ -3,7 +3,7 @@
 phrase = gets.strip
 
 def speak_to_grandma (phrase)  do 
-  if phrase 1= phrase.upcase
+  if phrase != phrase.upcase
     
 end
 
