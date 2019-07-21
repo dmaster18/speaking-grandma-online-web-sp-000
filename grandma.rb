@@ -7,7 +7,7 @@ def speak_to_grandma (phrase)  do
     puts "HUH?! SPEAK UP, SONNY!"
   elsif
   else
-  
+  end
 end
 
 # Whatever you say to grandma, she should respond with
