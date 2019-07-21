@@ -1,7 +1,7 @@
 # Write a speak_to_grandma method.
 
 phrase = gets.strip
-def speak_to_grandma (phrase) do 
+def speak_to_grandma (phrase)  
   if phrase != phrase.upcase
     puts "HUH?! SPEAK UP, SONNY!"
   elsif phrase == phrase.upcase
