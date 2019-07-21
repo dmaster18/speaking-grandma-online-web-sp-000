@@ -10,7 +10,7 @@ def speak_to_grandma (phrase)  do
     puts "I LOVE YOU TOO PUMPKIN!"
   end
 end
-
+phrase
 speak_to_grandma(phrase)
 
 # Whatever you say to grandma, she should respond with
